@@ -21,6 +21,10 @@ a {
 .main-sidebar {
     background-color: rgb(255 255 255/var(--tw-bg-opacity));
 }
+
+.main-sidebar:hover {
+    background-color: #ffffff;
+}
 .li-nav-menu-green:hover {
     
     background-color: #bbf7d0;

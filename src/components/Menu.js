@@ -106,91 +106,97 @@ export default class Menu extends Component {
                     </a>
                     <ul class="list-unstyled flex-column pl-3 collapse" id="submenu3" aria-expanded="false">
                     <li className="nav-item">
-                        <a href="#" className="nav-link">
+                        <a href="/Category/Expert" className="nav-link">
                         <i className="far fa-circle nav-icon" />
                         <p>Chuyên gia</p>
                         </a>
                     </li>
                     <li className="nav-item">
-                        <a href="#" className="nav-link">
+                        <a href="/Category/Stage" className="nav-link">
                         <i className="far fa-circle nav-icon" />
                         <p>Giai đoạn</p>
                         </a>
                     </li>
                     <li className="nav-item">
-                        <a href="#" className="nav-link">
+                        <a href="/Category/Science" className="nav-link">
                         <i className="far fa-circle nav-icon" />
                         <p>Lĩnh vực khoa học</p>
                         </a>
                     </li>
                     <li className="nav-item">
-                        <a href="#" className="nav-link">
+                        <a href="/Category/Specialized" className="nav-link">
                         <i className="far fa-circle nav-icon" />
                         <p>Chuyên ngành</p>
                         </a>
                     </li>
                     <li className="nav-item">
-                        <a href="#" className="nav-link">
+                        <a href="/Category/Managing_unit" className="nav-link">
                         <i className="far fa-circle nav-icon" />
                         <p>Đơn vị chủ quản</p>
                         </a>
                     </li>
                     <li className="nav-item">
-                        <a href="#" className="nav-link">
+                        <a href="/Category/Adminsnistor" className="nav-link">
+                        <i className="far fa-circle nav-icon" />
+                        <p>Cơ quan chủ trì</p>
+                        </a>
+                    </li>
+                    <li className="nav-item">
+                        <a href="/Category/Academic_rank" className="nav-link">
                         <i className="far fa-circle nav-icon" />
                         <p>Học hàm</p>
                         </a>
                     </li>
                     <li className="nav-item">
-                        <a href="#" className="nav-link">
+                        <a href="/Category/Degree" className="nav-link">
                         <i className="far fa-circle nav-icon" />
                         <p>Học vị</p>
                         </a>
                     </li>
                     <li className="nav-item">
-                        <a href="#" className="nav-link">
+                        <a href="/Category/Title" className="nav-link">
                         <i className="far fa-circle nav-icon" />
                         <p>Chức danh</p>
                         </a>
                     </li>
                     <li className="nav-item">
-                        <a href="#" className="nav-link">
+                        <a href="/Category/Position" className="nav-link">
                         <i className="far fa-circle nav-icon" />
                         <p>Chức vụ</p>
                         </a>
                     </li>
                     <li className="nav-item">
-                        <a href="#" className="nav-link">
+                        <a href="/Category/Product_form" className="nav-link">
                         <i className="far fa-circle nav-icon" />
                         <p>Dạng sản phẩm</p>
                         </a>
                     </li>
                     <li className="nav-item">
-                        <a href="#" className="nav-link">
+                        <a href="/Category/Product_type" className="nav-link">
                         <i className="far fa-circle nav-icon" />
                         <p>Loại sản phẩm</p>
                         </a>
                     </li>
                     <li className="nav-item">
-                        <a href="#" className="nav-link">
+                        <a href="/Category/Program_type" className="nav-link">
                         <i className="far fa-circle nav-icon" />
                         <p>Loại chương trình</p>
                         </a>
                     </li>
                     <li className="nav-item">
-                        <a href="#" className="nav-link">
+                        <a href="/Category/Management_agency" className="nav-link">
                         <i className="far fa-circle nav-icon" />
                         <p>Cơ quan quản lý</p>
                         </a>
                     </li>
                     <li className="nav-item">
-                        <a href="#" className="nav-link">
+                        <a href="/Category/Type_of_dispatch" className="nav-link">
                         <i className="far fa-circle nav-icon" />
                         <p>Loại công văn</p>
                         </a>
                     </li>
                     <li className="nav-item">
-                        <a href="#" className="nav-link">
+                        <a href="/Category/Task_attachment_type" className="nav-link">
                         <i className="far fa-circle nav-icon" />
                         <p>Loại file đính kèm nhiệm vụ</p>
                         </a>
@@ -207,31 +213,31 @@ export default class Menu extends Component {
                     </a>
                     <ul class="list-unstyled flex-column pl-3 collapse" id="submenu4" aria-expanded="false">
                     <li className="nav-item">
-                        <a href="#" className="nav-link">
+                        <a href="/System_management/User_group" className="nav-link">
                         <i className="far fa-circle nav-icon" />
                         <p>Nhóm người dùng</p>
                         </a>
                     </li>
                     <li className="nav-item">
-                        <a href="#" className="nav-link">
+                        <a href="/System_management/User" className="nav-link">
                         <i className="far fa-circle nav-icon" />
                         <p>Người dùng</p>
                         </a>
                     </li>
                     <li className="nav-item">
-                        <a href="#" className="nav-link">
+                        <a href="/System_management/Login_log" className="nav-link">
                         <i className="far fa-circle nav-icon" />
                         <p>Nhật ký đăng nhập</p>
                         </a>
                     </li>
                     <li className="nav-item">
-                        <a href="#" className="nav-link">
+                        <a href="/System_management/Error_log" className="nav-link">
                         <i className="far fa-circle nav-icon" />
                         <p>Nhật ký lỗi</p>
                         </a>
                     </li>
                     <li className="nav-item">
-                        <a href="#" className="nav-link">
+                        <a href="/System_management/System_configuration" className="nav-link">
                         <i className="far fa-circle nav-icon" />
                         <p>Cấu hình hệ thống</p>
                         </a>
@@ -248,19 +254,19 @@ export default class Menu extends Component {
                     </a>
                     <ul class="list-unstyled flex-column pl-3 collapse" id="submenu5" aria-expanded="false">
                     <li className="nav-item">
-                        <a href="#" className="nav-link">
+                        <a href="/Help/Data_sharing_API" className="nav-link">
                         <i className="far fa-circle nav-icon" />
                         <p>API chia sẻ dữ liệu</p>
                         </a>
                     </li>
                     <li className="nav-item">
-                        <a href="#" className="nav-link">
+                        <a href="/Help/Usage_procedure" className="nav-link">
                         <i className="far fa-circle nav-icon" />
                         <p>Quy trình sử dụng</p>
                         </a>
                     </li>
                     <li className="nav-item">
-                        <a href="#" className="nav-link">
+                        <a href="/Help/Software_information" className="nav-link">
                         <i className="far fa-circle nav-icon" />
                         <p>Thông tin phần mềm</p>
                         </a>
