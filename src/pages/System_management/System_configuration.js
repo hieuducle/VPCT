@@ -22,7 +22,7 @@ function System_configuration() {
                 <div className="container-fluid">
                     <div className="row mb-2">
                         <div className="col-sm-6">
-                            <h1>Giai đoạn</h1>
+                            <h1>Cấu hình hệ thống</h1>
                         </div>
                         <div className="col-sm-6">
                             <ol className="breadcrumb float-sm-right">

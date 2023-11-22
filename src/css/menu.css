@@ -1,22 +1,4 @@
-/* .sidebar-menu {
-    background-color: rgb(255 255 255);
-    color: black;
-  }
-p {
-    color: black;
-}
 
-.nav-link {
-    color: black;
-}
-
-a {
-    color: black;
-}
-
-.sidebar a {
-    color: black;
-} */
 
 .main-sidebar {
     background-color: rgb(255 255 255/var(--tw-bg-opacity));
@@ -37,7 +19,7 @@ a {
 }
 
 .li-nav-menu-green:hover .list-unstyled {
-    background-color: white; /* hoặc bất kỳ giá trị nền mong muốn cho thẻ con */
+    background-color: white; 
 }
 .nav-link {
     margin-bottom: 0 !important;

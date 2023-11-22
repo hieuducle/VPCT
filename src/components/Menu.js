@@ -97,7 +97,7 @@ export default class Menu extends Component {
                     </ul>
                 </li>
                 <li className="li-nav-menu-green nav-item">
-                <a class="nav-link " href="#submenu3" data-toggle="collapse" data-target="#submenu3">     
+                <a className="nav-link " href="#submenu3" data-toggle="collapse" data-target="#submenu3">     
                     <i className="nav-icon fas fa-copy" />
                     <p>
                         Danh mục
