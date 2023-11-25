@@ -63,7 +63,7 @@ export default class Menu extends Component {
                         <i className="right fas fa-angle-left" />
                     </p>
                     </a>
-                    <ul class="list-unstyled flex-column pl-3 collapse" id="submenu2" aria-expanded="false">
+                    <ul class="list-unstyled flex-column pl-3 collapse" id="submenu2" aria-expanded="false"> 
                     <li className="nav-item">
                         <a href="/Statistical/programReport" className="nav-link">
                         <i className="far fa-circle nav-icon" />

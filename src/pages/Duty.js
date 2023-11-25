@@ -2,15 +2,16 @@
 
     import Header from '../components/Header';
     import Menu from '../components/Menu';
-    import Table from '../components/Table';
+    // import Table from '../components/Table';
     import Footer from '../components/Footer';
+    import Todos from '../components/testAPITypeProgram';
 
     function Duty() {
         return (
             <div class="wrapper">
             <Header />
             <Menu />
-            <Table />
+            <Todos />
             <Footer />
             </div>
         );
